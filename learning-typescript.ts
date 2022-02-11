@@ -11,5 +11,3 @@ enviarEmail({
     nome: "Thiago Gois",
     telefone: "24992378067",
 });
-
-// dale
